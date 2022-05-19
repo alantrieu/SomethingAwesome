@@ -8,4 +8,6 @@ My project revolved around learning basic CTF concepts and applying them through
 
 *wargame-blogs.pdf* is a 64-page rewritten compilation of wargame blogs which documented my thought-process and challenges trying to complete them, along with the weekly reflection blogs. The aforementioned links to the original blogs requires you to create an OpenLearning account. This PDF is an alternative to that.
 
+And in case you don't want to download the report submission, [here](https://www.youtube.com/watch?v=NMZVjS3DD0U) is the presentation video.
+
 Final grade: 90%
